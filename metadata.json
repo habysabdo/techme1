@@ -1,0 +1,8 @@
+{
+  "name": "Dealer Technician Network (DTN)",
+  "description": "On-demand automotive technician talent network connecting certified mechanics with dealerships for emergency coverage, contract, part-time, and full-time placement with AI matching and resume analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
